@@ -1,10 +1,10 @@
 # Project name
--Location
--Year of development
--Block “Photo gallery”
--Block “Project description / characteristics”
--Block “Project team”
--Block “Files”
+- Location
+- Year of development
+- Block “Photo gallery”
+- Block “Project description / characteristics”
+- Block “Project team”
+- Block “Files”
 
 ### Markdown
 
